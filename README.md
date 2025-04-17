@@ -34,4 +34,15 @@ The Shapes NGO website is designed to support the organization's online presence
 - 📱 Fully responsive and mobile-friendly
 
 ---
+## 🧑‍💻 Developed By
+
+Freelance Team @ Genship Technologies Pvt. Ltd.
+
+👨‍💻 Kshatri Sahil 
+📧 kshatri.sahil11@gmail.com
+📱 +91 72074 19008
+
+👨‍💻 Shaik Sabeer
+📧 shaiksabeer70@gmail.com
+📱 +91 95502 84831
 
